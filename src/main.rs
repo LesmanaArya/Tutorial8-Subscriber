@@ -41,3 +41,4 @@ auto_delete: false, durable: false, use_dead_letter: true });
     loop {
     }
 }
+
